@@ -5,7 +5,7 @@ const doc = {
     title: 'Contacts API',
     description: 'API for managing contacts'
   },
-  host: 'localhost:3000', // Replace with your Render URL after deploy
+  host: 'https://cse-341-project-1-kc2a.onrender.com', 
   schemes: ['http']
 };
 
