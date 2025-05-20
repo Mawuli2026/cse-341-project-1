@@ -5,7 +5,7 @@ const doc = {
     title: 'Contacts API',
     description: 'API for managing contacts'
   },
-  host: 'https://cse-341-project-1-kc2a.onrender.com', 
+  host: 'cse-341-project-1-kc2a.onrender.com', 
   schemes: ['http']
 };
 
