@@ -43,19 +43,19 @@
               "type": "object",
               "properties": {
                 "firstName": {
-                  "example": "Mawuli"
+                  "example": "any"
                 },
                 "lastName": { 
-                  "example": "Ayikpa"
+                  "example": "any"
                 },
                 "email": {
-                  "example": "Mawuli@gmail.com"
+                  "example": "any"
                 },
                 "favoriteColor": {
                   "example": "White"
                 },
                 "birthday": {
-                  "example": "1990-01-01"
+                  "example": "any"
                 }
               }
             }
