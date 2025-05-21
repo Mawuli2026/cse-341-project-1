@@ -9,7 +9,7 @@ GET http://localhost:3000/contact/68263e7c931fccbb47c15e1f
 
 ### Create a new contact
 POST http://localhost:3000/contact
-Content-Type: json
+Content-Type: application/json
 
 {
   "firstName": "Mawuli",
