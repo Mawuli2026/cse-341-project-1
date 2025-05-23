@@ -11,7 +11,7 @@ app.use(express.json());
 
 // Root route
 app.get('/', (req, res) => {
-  res.send('Hello Mawuli!');
+  res.send('Hello World');
 });
 
 // Contacts API route
