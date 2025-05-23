@@ -9,9 +9,13 @@ app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 app.use(express.json());
 
+const cors = require('cors');
+app.use(cors());
+
+
 // Root route
 app.get('/', (req, res) => {
-  res.send('Hello World');
+  res.send('Hello Mawuli!');
 });
 
 // Contacts API route
